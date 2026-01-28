@@ -1,0 +1,52 @@
+project_id = "iyviafwzuhkomdrnpnwp"
+
+[functions.migrate-data]
+verify_jwt = false
+
+[functions.send-email]
+verify_jwt = false
+
+[functions.ai-marketing]
+verify_jwt = false
+
+[functions.ai-email]
+verify_jwt = false
+
+[functions.ai-analytics]
+verify_jwt = false
+
+[functions.send-campaign]
+verify_jwt = false
+
+[functions.track-email]
+verify_jwt = false
+
+[functions.ai-content]
+verify_jwt = false
+
+[functions.schedule-campaigns]
+verify_jwt = false
+
+[functions.notify-new-product]
+verify_jwt = false
+
+[functions.generate-video]
+verify_jwt = false
+
+[functions.ai-auto-reply]
+verify_jwt = false
+
+[functions.send-order-status]
+verify_jwt = false
+
+[functions.send-solar-quote]
+verify_jwt = false
+
+[functions.send-quote-reminders]
+verify_jwt = false
+
+[functions.send-cctv-quote]
+verify_jwt = false
+
+[functions.send-machine-quote]
+verify_jwt = false
